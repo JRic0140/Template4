@@ -1,0 +1,21 @@
+section{
+    margin-top: 75vh;
+    width: 100%;
+    article{
+        width: 90%;
+        max-width: 1200px;
+        display: flex;
+        align-items: center;
+        flex-flow: nowrap row;
+        margin: auto;
+        .title{
+            width: 40%;
+            font-size: 2em;
+        }
+        .text{
+            width: 50%;
+            margin: auto;
+            line-height: 1.3em;
+        }
+    }
+}

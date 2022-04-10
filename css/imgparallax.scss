@@ -1,0 +1,12 @@
+section >.img-parallax{
+    width: 100%;
+    height: 400px;
+    margin: 10% 0;
+    overflow: hidden;
+    img{
+        width: 100%;
+        transition: .2s ease-out;
+        transform: translateY(var(--parPosition));
+        filter: blur(3px);
+    }
+}

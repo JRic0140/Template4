@@ -1,0 +1,2 @@
+section>.img-parallax{width:100%;height:400px;margin:10% 0;overflow:hidden}section>.img-parallax img{width:100%;-webkit-transition:.2s ease-out;transition:.2s ease-out;-webkit-transform:translateY(var(--parPosition));transform:translateY(var(--parPosition));-webkit-filter:blur(3px);filter:blur(3px)}
+/*# sourceMappingURL=imgParallax.min.css.map */
